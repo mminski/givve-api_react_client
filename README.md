@@ -1,6 +1,6 @@
 # Givve API React JS Client
 
-This webapp is client-side and demonstrates some core concepts of ReactJS in combinations with the Givve API.
+This webapp is client-side and demonstrates some core concepts of ReactJS in combination with the Givve API (https://developer.givve.com/v2/reference).
 
 Dokumentation: http://developer.givve.com/
 
